@@ -1,0 +1,7 @@
+# █▀▀ █▀█ █▀▄ █▀▀ █▀▀ █▀█ ▄▀█ █▀▀ ▀█▀ █▀▀ █▀█ █▀
+# █▄▄ █▄█ █▄▀ ██▄ █▄▄ █▀▄ █▀█ █▀░ ░█░ ██▄ █▀▄ ▄█
+# ――――――――――――――――――――――――――――――――――――――――――――――
+# (●) Last Update: {{ time_of_update }}
+# (●) Service: {{ service_name }}
+# (●) Total Channels: {{ num_of_channels }}
+# (●) Join: https://t.me/realcodecrafters
