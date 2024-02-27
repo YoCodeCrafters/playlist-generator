@@ -28,6 +28,9 @@ class DaddyHD(BaseService):
             channel_id = channel_slug[FIRST_INDEX:LAST_INDEX]
             channel_name = channel_div.text.strip()
 
+            if "18+" in channel_name:
+                continue
+
             channels_data.append({
                 "name": channel_name,
                 "logo": "",
