@@ -25,7 +25,7 @@ class AESport(BaseService):
                     "group": section_div.select_one("div.left").text.strip(),
                     "stream-url": channel_div.select_one("img.preview-tv").get("src").replace("preview.jpg", "index.m3u8"),
                     "headers": {
-                        "referer": get_base_url(channel_div.parent.get("href")),
+                        "referer": get_base_url(channel_div.parent.get("href")) + "/",
                         "user-agent": self.USER_AGENT
                     }
                 })
