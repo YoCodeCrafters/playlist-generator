@@ -17,7 +17,7 @@ class AESport(BaseService):
 
         sections_divs = soup.select(".section-focus")
         for section_div in sections_divs:
-            channels_divs = soup.select(".tv-item")
+            channels_divs = section_div.select(".tv-item")
             for channel_div in channels_divs:
                 channels_data.append({
                     "name": channel_div.select_one("div.channel-name").text.strip(),
