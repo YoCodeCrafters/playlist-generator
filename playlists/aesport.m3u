@@ -3,7 +3,7 @@
 # █▀▀ █▀█ █▀▄ █▀▀ █▀▀ █▀█ ▄▀█ █▀▀ ▀█▀ █▀▀ █▀█ █▀
 # █▄▄ █▄█ █▄▀ ██▄ █▄▄ █▀▄ █▀█ █▀░ ░█░ ██▄ █▀▄ ▄█
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-03-01 19:57:48 UTC
+# (●) Last Update: 2024-03-01 20:14:59 UTC
 # (●) Service: AESport
 # (●) Total Channels: 51
 # (●) Join: https://t.me/realcodecrafters
@@ -191,7 +191,7 @@ https://nlsuper.score806.cc/pt_elevensport2/index.m3u8
 #EXTINF:-1 tvg-name="Eleven Sport 3" tvg-logo="https://image.24hsport.tv/tvs/31.png" group-title="Portugal Channels",Eleven Sport 3
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsuper.score806.cc/pt_elevensport3/index.m3u8
+https://gelive.score806.cc/pt_elevensport3/index.m3u8
 
 #EXTINF:-1 tvg-name="Sport TV 1" tvg-logo="https://image.24hsport.tv/tvs/36.png" group-title="Portugal Channels",Sport TV 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
