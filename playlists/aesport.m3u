@@ -3,7 +3,7 @@
 # █▀▀ █▀█ █▀▄ █▀▀ █▀▀ █▀█ ▄▀█ █▀▀ ▀█▀ █▀▀ █▀█ █▀
 # █▄▄ █▄█ █▄▀ ██▄ █▄▄ █▀▄ █▀█ █▀░ ░█░ ██▄ █▀▄ ▄█
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-03-02 20:48:55 UTC
+# (●) Last Update: 2024-03-02 20:57:01 UTC
 # (●) Service: AESport
 # (●) Total Channels: 51
 # (●) Join: https://t.me/realcodecrafters
@@ -161,22 +161,22 @@ https://us.score806.cc/us_wwe/index.m3u8
 #EXTINF:-1 tvg-name="BEIN SPORTS 1" tvg-logo="https://image.24hsport.tv/tvs/40.png" group-title="France Channels",BEIN SPORTS 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsuper.score806.cc/fr_beinsports1/index.m3u8
+https://gelive.score806.cc/fr_beinsports1/index.m3u8
 
 #EXTINF:-1 tvg-name="BEIN SPORTS 2" tvg-logo="https://image.24hsport.tv/tvs/41.png" group-title="France Channels",BEIN SPORTS 2
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsuper.score806.cc/fr_beinsports2/index.m3u8
+https://gelive.score806.cc/fr_beinsports2/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC SPORT 1" tvg-logo="https://image.24hsport.tv/tvs/13.png" group-title="France Channels",RMC SPORT 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsuper.score806.cc/fr_rmcsport1/index.m3u8
+https://gelive.score806.cc/fr_rmcsport1/index.m3u8
 
 #EXTINF:-1 tvg-name="RMC SPORT 2" tvg-logo="https://image.24hsport.tv/upload/Livetv/RMC_SPORT_2.png" group-title="France Channels",RMC SPORT 2
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsuper.score806.cc/fr_rmcsport2/index.m3u8
+https://gelive.score806.cc/fr_rmcsport2/index.m3u8
 
 #EXTINF:-1 tvg-name="Eleven Sport 1" tvg-logo="https://image.24hsport.tv/tvs/33.png" group-title="Portugal Channels",Eleven Sport 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -186,7 +186,7 @@ https://gelive.score806.cc/pt_elevensport1/index.m3u8
 #EXTINF:-1 tvg-name="Eleven Sport 2" tvg-logo="https://image.24hsport.tv/tvs/32.png" group-title="Portugal Channels",Eleven Sport 2
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsuper.score806.cc/pt_elevensport2/index.m3u8
+https://gelive.score806.cc/pt_elevensport2/index.m3u8
 
 #EXTINF:-1 tvg-name="Eleven Sport 3" tvg-logo="https://image.24hsport.tv/tvs/31.png" group-title="Portugal Channels",Eleven Sport 3
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -196,7 +196,7 @@ https://gelive.score806.cc/pt_elevensport3/index.m3u8
 #EXTINF:-1 tvg-name="Sport TV 1" tvg-logo="https://image.24hsport.tv/tvs/36.png" group-title="Portugal Channels",Sport TV 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsuper.score806.cc/pt_sporttv1/index.m3u8
+https://gelive.score806.cc/pt_sporttv1/index.m3u8
 
 #EXTINF:-1 tvg-name="Sport TV 2" tvg-logo="https://image.24hsport.tv/tvs/37.png" group-title="Portugal Channels",Sport TV 2
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -206,7 +206,7 @@ https://gelive.score806.cc/pt_sporttv2/index.m3u8
 #EXTINF:-1 tvg-name="Sport TV 3" tvg-logo="https://image.24hsport.tv/tvs/38.png" group-title="Portugal Channels",Sport TV 3
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsuper.score806.cc/pt_sporttv3/index.m3u8
+https://gelive.score806.cc/pt_sporttv3/index.m3u8
 
 #EXTINF:-1 tvg-name="Super Sport Football" tvg-logo="https://image.24hsport.tv/upload/Livetv/ss-football.png" group-title="DSTV Channels",Super Sport Football
 #EXTVLCOPT:http-referrer=https://aesport.tv/
