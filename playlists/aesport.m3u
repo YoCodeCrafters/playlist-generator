@@ -3,9 +3,9 @@
 # █▀▀ █▀█ █▀▄ █▀▀ █▀▀ █▀█ ▄▀█ █▀▀ ▀█▀ █▀▀ █▀█ █▀
 # █▄▄ █▄█ █▄▀ ██▄ █▄▄ █▀▄ █▀█ █▀░ ░█░ ██▄ █▀▄ ▄█
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-03-15 09:07:32 UTC
+# (●) Last Update: 2024-03-15 09:19:47 UTC
 # (●) Service: AESport
-# (●) Total Channels: 51
+# (●) Total Channels: 40
 # (●) Join: https://t.me/realcodecrafters
 
 #EXTINF:-1 tvg-name="TNT SPORT 1" tvg-logo="https://image.acdsport.com/upload/Livetv/tntsport1.png" group-title="UK Channels",TNT SPORT 1
@@ -121,7 +121,7 @@ https://gelive.score806.cc/uk_mtv/index.m3u8
 #EXTINF:-1 tvg-name="FS1" tvg-logo="https://image.acdsport.com/upload/Livetv/usfs1.png" group-title="US Channels",FS1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://ussec.score806.cc/GftsZ1uCe4k4RopHgf3Qn73KY9mIDuQzlXOg6mRlNkA=/1710508051927/us_fs1/index.m3u8
+https://ussec.score806.cc/m+7ejOdRXKvz3sn1CJFLx7DkUzx_cPlAsqgbZ5Aeq9M=/1710508786693/us_fs1/index.m3u8
 
 #EXTINF:-1 tvg-name="FS2" tvg-logo="https://image.acdsport.com/upload/Livetv/usfs2.png" group-title="US Channels",FS2
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -207,58 +207,3 @@ https://gelive.score806.cc/pt_sporttv2/index.m3u8
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://gelive.score806.cc/pt_sporttv3/index.m3u8
-
-#EXTINF:-1 tvg-name="Super Sport Football" tvg-logo="https://image.acdsport.com/upload/Livetv/ss-football.png" group-title="DSTV Channels",Super Sport Football
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gelive.score806.cc/za_ssfb/index.m3u8
-
-#EXTINF:-1 tvg-name="Super Sport Premier League" tvg-logo="https://image.acdsport.com/upload/Livetv/ss-premierleague.png" group-title="DSTV Channels",Super Sport Premier League
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gelive.score806.cc/za_sspl/index.m3u8
-
-#EXTINF:-1 tvg-name="Super Sport Laliga" tvg-logo="https://image.acdsport.com/upload/Livetv/ss-laliga.png" group-title="DSTV Channels",Super Sport Laliga
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gelive.score806.cc/za_ssliga/index.m3u8
-
-#EXTINF:-1 tvg-name="Super Sport Action" tvg-logo="https://image.acdsport.com/upload/Livetv/ss-action.png" group-title="DSTV Channels",Super Sport Action
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gelive.score806.cc/za_ssact/index.m3u8
-
-#EXTINF:-1 tvg-name="Super Sport Golf" tvg-logo="https://image.acdsport.com/upload/Livetv/ss-golf.png" group-title="DSTV Channels",Super Sport Golf
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gelive.score806.cc/za_ssgolf/index.m3u8
-
-#EXTINF:-1 tvg-name="Super Sport Rugby" tvg-logo="https://image.acdsport.com/upload/Livetv/zassrugby.png" group-title="DSTV Channels",Super Sport Rugby
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gelive.score806.cc/za_ssrugby/index.m3u8
-
-#EXTINF:-1 tvg-name="Super Sport Tennis" tvg-logo="https://image.acdsport.com/upload/Livetv/ss-tennis.png" group-title="DSTV Channels",Super Sport Tennis
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gelive.score806.cc/za_sstennis/index.m3u8
-
-#EXTINF:-1 tvg-name="Super Sport Variety 1" tvg-logo="https://image.acdsport.com/upload/Livetv/ss-variety1.png" group-title="DSTV Channels",Super Sport Variety 1
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gelive.score806.cc/za_ssvariety1/index.m3u8
-
-#EXTINF:-1 tvg-name="Super Sport Variety 2" tvg-logo="https://image.acdsport.com/upload/Livetv/ss-variety2.png" group-title="DSTV Channels",Super Sport Variety 2
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gelive.score806.cc/za_ssvariety2/index.m3u8
-
-#EXTINF:-1 tvg-name="Super Sport Cricket" tvg-logo="https://image.acdsport.com/upload/Livetv/ss-cricket.png" group-title="DSTV Channels",Super Sport Cricket
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gelive.score806.cc/za_sscricket/index.m3u8
-
-#EXTINF:-1 tvg-name="Super Sport PSL" tvg-logo="https://image.acdsport.com/upload/Livetv/ss-psl.png" group-title="DSTV Channels",Super Sport PSL
-#EXTVLCOPT:http-referrer=https://aesport.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gelive.score806.cc/za_sspsl/index.m3u8
