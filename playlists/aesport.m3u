@@ -3,7 +3,7 @@
 # █▀▀ █▀█ █▀▄ █▀▀ █▀▀ █▀█ ▄▀█ █▀▀ ▀█▀ █▀▀ █▀█ █▀
 # █▄▄ █▄█ █▄▀ ██▄ █▄▄ █▀▄ █▀█ █▀░ ░█░ ██▄ █▀▄ ▄█
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-03-16 15:14:39 UTC
+# (●) Last Update: 2024-03-16 15:22:52 UTC
 # (●) Service: AESport
 # (●) Total Channels: 40
 # (●) Join: https://t.me/realcodecrafters
@@ -121,17 +121,17 @@ https://gelive.score806.cc/uk_mtv/index.m3u8
 #EXTINF:-1 tvg-name="FS1" tvg-logo="https://image.acdsport.com/upload/Livetv/usfs1.png" group-title="US Channels",FS1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsec.score806.cc/9f2oRuzaZeumplrrmwx4LvNrlENQi10cS9F3U8lYEFA=/1710616229492/us_fs1/index.m3u8
+https://us.score806.cc/us_fs1/index.m3u8
 
 #EXTINF:-1 tvg-name="FS2" tvg-logo="https://image.acdsport.com/upload/Livetv/usfs2.png" group-title="US Channels",FS2
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gelive.score806.cc/us_fs2/index.m3u8
+https://us.score806.cc/us_fs2/index.m3u8
 
 #EXTINF:-1 tvg-name="USA Network" tvg-logo="https://image.acdsport.com/tvs/88.png" group-title="US Channels",USA Network
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://gelive.score806.cc/us_usa/index.m3u8
+https://us.score806.cc/us_usa/index.m3u8
 
 #EXTINF:-1 tvg-name="NFL Network" tvg-logo="https://image.acdsport.com/upload/Livetv/nfl-network.png" group-title="US Channels",NFL Network
 #EXTVLCOPT:http-referrer=https://aesport.tv/
