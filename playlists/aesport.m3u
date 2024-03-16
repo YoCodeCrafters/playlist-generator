@@ -3,7 +3,7 @@
 # █▀▀ █▀█ █▀▄ █▀▀ █▀▀ █▀█ ▄▀█ █▀▀ ▀█▀ █▀▀ █▀█ █▀
 # █▄▄ █▄█ █▄▀ ██▄ █▄▄ █▀▄ █▀█ █▀░ ░█░ ██▄ █▀▄ ▄█
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-03-16 02:38:47 UTC
+# (●) Last Update: 2024-03-16 02:46:44 UTC
 # (●) Service: AESport
 # (●) Total Channels: 40
 # (●) Join: https://t.me/realcodecrafters
@@ -21,7 +21,7 @@ https://gelive.score806.cc/uk_bts2/index.m3u8
 #EXTINF:-1 tvg-name="TNT SPORT 3" tvg-logo="https://image.acdsport.com/upload/Livetv/tntsport3.png" group-title="UK Channels",TNT SPORT 3
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://nlsec.score806.cc/LSMrJREcXLH1Q8L2PNxBijgPFVYeb4i91uN55TB1Wks=/1710570647503/uk_bts3/index.m3u8
+https://nlsec.score806.cc/8Jz37r3Yw3PXH5_zEvXtnrQZd91J_ub9JF1fCrmjyPI=/1710571334424/uk_bts3/index.m3u8
 
 #EXTINF:-1 tvg-name="PREMIER SPORTS 1" tvg-logo="https://image.acdsport.com/upload/Livetv/Premier Sports1.png" group-title="UK Channels",PREMIER SPORTS 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
@@ -121,7 +121,7 @@ https://gelive.score806.cc/uk_mtv/index.m3u8
 #EXTINF:-1 tvg-name="FS1" tvg-logo="https://image.acdsport.com/upload/Livetv/usfs1.png" group-title="US Channels",FS1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
-https://ussec.score806.cc/rZxgbmKrvRXPNt2c648A+JbwR5tPX1SRGq9+3vluG0c=/1710570647939/us_fs1/index.m3u8
+https://ussec.score806.cc/5Iqqpc9DAa30oYmMioL3LdcUK0E4J5ZwWD5WnuCSutQ=/1710571334879/us_fs1/index.m3u8
 
 #EXTINF:-1 tvg-name="FS2" tvg-logo="https://image.acdsport.com/upload/Livetv/usfs2.png" group-title="US Channels",FS2
 #EXTVLCOPT:http-referrer=https://aesport.tv/
