@@ -16,10 +16,6 @@
 
 ### ⚡ Recommended Players
 
-- [VLC Media Player](https://www.videolan.org/vlc/)
-- [OTT Navigator](https://www.apkmirror.com/apk/sia-scillarium-studio/ott-navigator-iptv/)
-- [TiviMate](https://play.google.com/store/apps/details?id=ar.tvplayer.tv&hl=en&gl=US)
-
 ### 💙 Contributing
 
 Pull requests are always welcome. If you're considering major changes, please join one of our chat groups or open an issue first to discuss what you would like to change.
