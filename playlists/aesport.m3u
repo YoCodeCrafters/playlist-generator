@@ -1,13 +1,4 @@
 #EXTM3U
-
-# █▀▀ █▀█ █▀▄ █▀▀ █▀▀ █▀█ ▄▀█ █▀▀ ▀█▀ █▀▀ █▀█ █▀
-# █▄▄ █▄█ █▄▀ ██▄ █▄▄ █▀▄ █▀█ █▀░ ░█░ ██▄ █▀▄ ▄█
-# ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-03-19 10:57:55 UTC
-# (●) Service: AESport
-# (●) Total Channels: 40
-# (●) Join: https://t.me/realcodecrafters
-
 #EXTINF:-1 tvg-name="TNT SPORT 1" tvg-logo="https://image.acdsport.com/upload/Livetv/tntsport1.png" group-title="UK Channels",TNT SPORT 1
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
