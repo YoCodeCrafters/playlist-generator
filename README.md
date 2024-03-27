@@ -24,7 +24,3 @@
 
 Pull requests are always welcome. If you're considering major changes, please join one of our chat groups or open an issue first to discuss what you would like to change.
 
-### 🌌 CodeCrafters Network
-
-[![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/realcodecrafters)
-[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/codecrafters)
