@@ -3,9 +3,9 @@
 # █▀▀ █▀█ █▀▄ █▀▀ █▀▀ █▀█ ▄▀█ █▀▀ ▀█▀ █▀▀ █▀█ █▀
 # █▄▄ █▄█ █▄▀ ██▄ █▄▄ █▀▄ █▀█ █▀░ ░█░ ██▄ █▀▄ ▄█
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-03-31 13:54:36 UTC
+# (●) Last Update: 2024-03-31 14:06:26 UTC
 # (●) Service: AESport
-# (●) Total Channels: 34
+# (●) Total Channels: 40
 # (●) Join: https://t.me/realcodecrafters
 
 #EXTINF:-1 tvg-name="TNT SPORT 1" tvg-logo="https://image.azencode.com/upload/Livetv/tntsport1.png" group-title="UK Channels",TNT SPORT 1
@@ -177,3 +177,33 @@ https://thumb.score806.cc/fr_rmcsport1/index.m3u8
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://thumb.score806.cc/fr_rmcsport2/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 1" tvg-logo="https://image.azencode.com/tvs/33.png" group-title="Portugal Channels",Eleven Sport 1
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_elevensport1/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 2" tvg-logo="https://image.azencode.com/tvs/32.png" group-title="Portugal Channels",Eleven Sport 2
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_elevensport2/index.m3u8
+
+#EXTINF:-1 tvg-name="Eleven Sport 3" tvg-logo="https://image.azencode.com/tvs/31.png" group-title="Portugal Channels",Eleven Sport 3
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_elevensport3/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 1" tvg-logo="https://image.azencode.com/tvs/36.png" group-title="Portugal Channels",Sport TV 1
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_sporttv1/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 2" tvg-logo="https://image.azencode.com/tvs/37.png" group-title="Portugal Channels",Sport TV 2
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_sporttv2/index.m3u8
+
+#EXTINF:-1 tvg-name="Sport TV 3" tvg-logo="https://image.azencode.com/tvs/38.png" group-title="Portugal Channels",Sport TV 3
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/pt_sporttv3/index.m3u8
