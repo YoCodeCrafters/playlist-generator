@@ -3,9 +3,9 @@
 # █▀▀ █▀█ █▀▄ █▀▀ █▀▀ █▀█ ▄▀█ █▀▀ ▀█▀ █▀▀ █▀█ █▀
 # █▄▄ █▄█ █▄▀ ██▄ █▄▄ █▀▄ █▀█ █▀░ ░█░ ██▄ █▀▄ ▄█
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2024-04-23 00:41:28 UTC
+# (●) Last Update: 2024-04-23 01:39:07 UTC
 # (●) Service: AESport
-# (●) Total Channels: 39
+# (●) Total Channels: 40
 # (●) Join: https://t.me/realcodecrafters
 
 #EXTINF:-1 tvg-name="TNT SPORT 1" tvg-logo="https://image.azencode.com/upload/Livetv/tntsport1.png" group-title="UK Channels",TNT SPORT 1
@@ -27,6 +27,11 @@ https://thumb.score806.cc/uk_bts3/index.m3u8
 #EXTVLCOPT:http-referrer=https://aesport.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
 https://thumb.score806.cc/uk_premiersports1/index.m3u8
+
+#EXTINF:-1 tvg-name="TNT SPORT 4" tvg-logo="https://image.azencode.com/upload/Livetv/tnt4.jpeg" group-title="UK Channels",TNT SPORT 4
+#EXTVLCOPT:http-referrer=https://aesport.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://thumb.score806.cc/uk_bts4/index.m3u8
 
 #EXTINF:-1 tvg-name="PREMIER SPORTS 2" tvg-logo="https://image.azencode.com/upload/Livetv/Premier Sports 2.png" group-title="UK Channels",PREMIER SPORTS 2
 #EXTVLCOPT:http-referrer=https://aesport.tv/
